@@ -4,3 +4,4 @@ Every marker has specific details about what's happening at that location, user 
 There is a list of all activities.
 Completing other users activities will give points based on a streak.
 With points you can buy potential rewards.
+Video Presentation Link: https://drive.google.com/file/d/1qzKriXEUIzS0d7g18Btu_PLSKBLyex7t/view?usp=sharing
