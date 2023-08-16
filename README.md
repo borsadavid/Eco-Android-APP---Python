@@ -7,7 +7,8 @@ With points you can buy potential rewards.
 Video Presentation Link: https://drive.google.com/file/d/1qzKriXEUIzS0d7g18Btu_PLSKBLyex7t/view?usp=sharing
 
 ![image](https://github.com/borsadavid/Eco-Android-APP---Python/assets/117517496/d96e2b06-3bf4-49f2-98b5-180f97396dc2)
-Activities on map:  
+Activities on map:     
+
 ![image](https://github.com/borsadavid/Eco-Android-APP---Python/assets/117517496/ab39dc9f-e635-4796-893d-891bae55c35e)
 
 Placing new activities:   
